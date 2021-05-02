@@ -1,7 +1,7 @@
 # Kratos-QSTP
 Course was offered by [Kratos-Mars Rover Mission Team,Bits Pilani](https://kratosbitsgoa.com)
 
-### learning  Basics of  
+### Learned Basics of During the Course Work 
 * Arduino 
 * Python 
 * Robotic Operating System (ROS)
