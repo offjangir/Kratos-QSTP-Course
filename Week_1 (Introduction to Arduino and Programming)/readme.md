@@ -22,6 +22,10 @@ QUESTION 3
 
 #### TINKERCAD--ARDUINO QUESTIONS
 
+<p float='left'>
+<img src = "https://github.com/offjangir/Kratos-QSTP-Course/blob/master/Week_1%20(Introduction%20to%20Arduino%20and%20Programming)/Arduino/Question_1%20Circuit.png" width=400>
+</p>
+
 QUESTION 1
 - CLICK SIMULATE TO GET THE CIRCUIT WORKING
 - TURN THE KNOB TO SEE THE LEDS LIGTHING UP LIKE A VOLUME BAR
